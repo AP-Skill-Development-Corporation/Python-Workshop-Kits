@@ -13,3 +13,7 @@ Aftrnn-https://transcripts.gotomeeting.com/#/s/826028f41ec6d6411285f0a9e800acd0a
 - Recording link:morning-https://transcripts.gotomeeting.com/#/s/761ad13c22aa1ac44b208074d942b73540c51ad481310bf479d60499bfb374a6
 
 # Day-3
+- Conditional statements
+- Iterations(loops)
+- Recording link:morning-https://transcripts.gotomeeting.com/#/s/e3a9fba4037d0f09dccc8391c0b462b6afd619a02e93a563f66039b56a07b391
+Afternoon-
