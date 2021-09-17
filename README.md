@@ -26,4 +26,13 @@ Afternoon-https://transcripts.gotomeeting.com/#/s/bcac4d75c9364ede43cfbc2d25d17e
 - Afternoon-https://transcripts.gotomeeting.com/#/s/1fce0fc659eb53d1650b813d633e210430301fafcee07b4244c8c56c3c389413
 
 # Day-5
-- 
+- Data Structures
+- Comprehensions
+- Iterators
+- Recording link-https://transcripts.gotomeeting.com/#/s/7c01e2416414f47ff6c074be6155e8a336d51e9f63d07a17bb4ec880c414ed23
+
+# Day-6
+- Functions
+- Files
+- Functional Programming
+- Recording link-
