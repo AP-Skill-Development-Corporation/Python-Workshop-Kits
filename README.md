@@ -32,7 +32,26 @@ Afternoon-https://transcripts.gotomeeting.com/#/s/bcac4d75c9364ede43cfbc2d25d17e
 - Recording link-https://transcripts.gotomeeting.com/#/s/7c01e2416414f47ff6c074be6155e8a336d51e9f63d07a17bb4ec880c414ed23
 
 # Day-6
+- Sets
 - Functions
-- Files
+- Recording link-https://transcripts.gotomeeting.com/#/s/2979905b81f24ac60b46a09f1cd1be664375c70957dcc1e957849a70374f9b56
+- https://transcripts.gotomeeting.com/#/s/2979905b81f24ac60b46a09f1cd1be664375c70957dcc1e957849a70374f9b56
+
+
+# Day-7
+- Packages and modules
+- FIles
+- Recording link- https://transcripts.gotomeeting.com/#/s/0b3974d8aeadf2a686ed4dc65608ae8edda2fa01c4be61fe7769b1005fc6147f
+
+# Day-8
 - Functional Programming
+- Regular Expressions
+- Recording link- https://transcripts.gotomeeting.com/#/s/c87fbf0fc6d0022d6bee94d4c7c69c492ae431b5cf7041b2b4ea9a5dee7f1a17
+
+# Day-9
+- OOPS
 - Recording link-
+
+# DAY-10
+- practice
+
